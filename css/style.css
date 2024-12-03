@@ -212,7 +212,7 @@ button {
 
 .layout_padding {
     padding-top: 90px;
-    padding-bottom: 0px;
+    padding-bottom: 90px;
 }
 
 .header_section {
@@ -244,7 +244,7 @@ button {
 }
 
 .number_text {
-    width: 150px;
+    width: 180px;
     float: left;
     font-size: 24px;
     color: #13100e;
